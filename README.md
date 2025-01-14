@@ -16,3 +16,8 @@
 ### Live Link:-
 
 - https://care2-landing.vercel.app/
+
+
+## Explanation:
+* I use Next.JS for better SEO and performance.
+* Properly I added image alt tag
